@@ -1,8 +1,7 @@
 # resumo-do-lab_2
 "Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO".
 
-# Criando máquinas Virtuais na Azure conceitos abordados até aqui e escreva um resumo do que você aprendeu durante o desenvolvimento do lab
-
+#
 Durante o desenvolvimento do lab sobre criação de Máquinas Virtuais (VMs) na Azure, vários conceitos essenciais foram abordados, proporcionando uma compreensão sólida sobre como configurar e gerenciar VMs na plataforma de nuvem da Microsoft. Aqui está um resumo do que foi aprendido:
 
 1. Introdução à Azure
